@@ -2,13 +2,13 @@
 
 ## Projeto Caixa Eletrônico ##
 
-## Problema
+#### Problema
 
 Desenvolver uma aplicação que simule a entrega de notas quando um cliente efetuar um saque em um caixa eletrônico. Os requisitos básicos são os seguintes:
 
 - Entregar o menor número de notas;
 - É possível sacar o valor solicitado com as notas disponíveis;
-- Saldo do cliente será cadastrado; 
+- Saldo do cliente será cadastrado;
 - Quantidade de notas infinita. Notas disponíveis de R$ 100,00; R$ 50,00; R$ 20,00 e R$ 10,00.
 - O Cliente não poderá entrar no negativo.
 - Criar no mínimo 3 endpoints: para efetuar saque, cadastrar cliente e outro pra retornar saldo.
@@ -40,4 +40,3 @@ Cadastro , Edição e Exclusão de Clientes ( saldo de cada cliente será cadast
 ### Executando a aplicação
 - Para executar o projeto é necessário ter o banco de dados MySql instalado no host. Caso você tenha o docker
 instalado em sua máquina, informar configuração.
-
