@@ -2,7 +2,7 @@
 
 ## Caixa Eletrônico ##
 
-#### Problema
+#### Problema:
 
 Desenvolver uma aplicação que simule a entrega de notas quando um cliente efetuar um saque em um caixa eletrônico. Os requisitos básicos são os seguintes:
 
