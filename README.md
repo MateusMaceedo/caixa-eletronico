@@ -63,7 +63,7 @@ $ mvn run start
 > Em Desenvolvimento
 
 ````
-Executando a aplicação:
+Observação ao Executar a aplicação:
 
 Para executar o projeto é necessário ter o banco de dados MySql instalado no host. Caso você tenha o docker
 instalado em sua máquina, informar configuração.
