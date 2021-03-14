@@ -40,7 +40,7 @@ Cadastro , Edição e Exclusão de Clientes ( saldo de cada cliente será cadast
 Executando a aplicação:
 
 - Para executar o projeto é necessário ter o banco de dados MySql instalado no host. Caso você tenha o docker
-instalado em sua máquina, informar configuração.`
+instalado em sua máquina, informar configuração.
 ````
 
 ##### Resolução em execução:
