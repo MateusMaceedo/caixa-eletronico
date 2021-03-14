@@ -54,8 +54,6 @@ $ mvn start
 $ mvn run start
 
 # Chamada no Postman, localhosto:8080
-
-# A aplicação será aberta na porta:8080
 ```
 
 ### Rodando Aplicação Front-end
