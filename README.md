@@ -42,4 +42,4 @@ Cadastro , Edição e Exclusão de Clientes ( saldo de cada cliente será cadast
 instalado em sua máquina, informar configuração.
 
 Resolução em execução:
-<img src="/MateusMaceedo/caixa-eletronico/blob/main/caixaeletronico/img/spring.PNG?raw=true" alt="spring.PNG">
+<img src="https://github.com/MateusMaceedo/caixa-eletronico/blob/main/caixaeletronico/img/spring.PNG"/>
