@@ -1,6 +1,6 @@
 <img src="https://www.everis.com/sites/all/themes/everis/logo.png" width="132" height="65">
 
-## Projeto Caixa Eletrônico ##
+## Caixa Eletrônico ##
 
 #### Problema
 
