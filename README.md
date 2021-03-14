@@ -36,10 +36,12 @@ Cadastro , Edição e Exclusão de Clientes ( saldo de cada cliente será cadast
 - Banco de dados MySQL.
 - JUnit 5 com Mockito para testes unitários
 
+````
+Executando a aplicação:
 
-### Executando a aplicação
 - Para executar o projeto é necessário ter o banco de dados MySql instalado no host. Caso você tenha o docker
-instalado em sua máquina, informar configuração.
+instalado em sua máquina, informar configuração.`
+````
 
-*** Resolução em execução ***:
+##### Resolução em execução:
 <img src="https://github.com/MateusMaceedo/caixa-eletronico/blob/main/caixaeletronico/img/spring.PNG"/>
