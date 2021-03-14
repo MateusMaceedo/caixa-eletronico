@@ -26,15 +26,20 @@ Cadastro , Edição e Exclusão de Clientes ( saldo de cada cliente será cadast
 
 ## Tecnologias:
 
-### Back-end
+- Java 8 ou superior  - :heavy_check_mark:
+- Maven para criação do projeto  - :heavy_check_mark:
+- Spring-boot  - :heavy_check_mark:
+- Spring-data-jpa  - :heavy_check_mark:
+- Lombok  - :heavy_check_mark:
+- Banco de dados MySQL  - :heavy_check_mark:
+- JUnit 5 com Mockito para testes unitários  - :heavy_check_mark:
 
-- Java 8 ou superior
-- Maven para criação do projeto
-- Spring-boot
-- Spring-data-jpa
-- Lombok
-- Banco de dados MySQL.
-- JUnit 5 com Mockito para testes unitários
+### Rodando Aplicação Back-end
+
+
+### Rodando Aplicação Front-end
+
+> Em Desenvolvimento
 
 ````
 Executando a aplicação:
