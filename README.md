@@ -67,5 +67,5 @@ Para executar o projeto é necessário ter o banco de dados MySql instalado no h
 instalado em sua máquina, informar configuração.
 ````
 
-##### Resolução em execução:
+##### Aplicação em execução:
 <img src="https://github.com/MateusMaceedo/caixa-eletronico/blob/main/caixaeletronico/img/spring.PNG"/>
