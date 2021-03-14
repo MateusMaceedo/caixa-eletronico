@@ -35,7 +35,28 @@ Cadastro , Edição e Exclusão de Clientes ( saldo de cada cliente será cadast
 - JUnit 5 com Mockito para testes unitários  - :heavy_check_mark:
 
 ### Rodando Aplicação Back-end
+```bash
+# Vá para a pasta da aplicação Back-End
+$ cd caixaeletronico
 
+# Instale as dependências
+$ mvn install
+# Ou use -u -x se preferir, para alinhar as libs
+$ mvn install -u -X 
+
+# Rode as migrations do banco de dados
+$ mvn start
+# Ou use o run da propria IDE
+
+# Execute a aplicação em modo de desenvolvimento
+$ mvn start
+# Ou use NPM se preferir
+$ mvn run start
+
+# Chamada no Postman, localhosto:8080
+
+# A aplicação será aberta na porta:8080
+```
 
 ### Rodando Aplicação Front-end
 
