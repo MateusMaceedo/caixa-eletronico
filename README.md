@@ -53,7 +53,7 @@ $ mvn start
 # Ou use NPM se preferir
 $ mvn run start
 
-# Chamada no Postman, localhosto:8080
+# Chamada no Postman, localhost:8080
 ```
 
 ### Rodando Aplicação Front-end
