@@ -66,6 +66,13 @@ Observação ao Executar a aplicação:
 Para executar o projeto é necessário ter o banco de dados MySql instalado no host. Caso você tenha o docker
 instalado em sua máquina, informar configuração.
 ````
+Após clonar o projeto:
+
+* _ce-crud_: Dentro da pasta do projeto executar o comando: `mvn spring-boot:run -Dspring.profiles.active='elephant'` para usar o banco do ElephantSQL ou `mvn spring-boot:run -Dspring.profiles.active='local'` para rodar com a base local;
+
+* _ce-core_: Dentro da pasta do projeto executar o comando: `mvn spring-boot:run`;
+
+* _ce-ui: Dentro da pasta do projeto executar os comando: `npm install`, `bower install` na primeira vez que for executar o projeto. E, por fim, executar `gulp` para iniciar o server. *O projeto rodará na porta 9000*;
 
 ##### Aplicação em execução:
 <img src="https://github.com/MateusMaceedo/caixa-eletronico/blob/main/caixaeletronico/img/spring.PNG"/>
