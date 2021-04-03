@@ -56,10 +56,6 @@ $ mvn run start
 # Chamada no Postman, localhost:8080
 ```
 
-### Rodando Aplicação Front-end
-
-> Em Desenvolvimento
-
 ````
 Observação ao Executar a aplicação:
 
